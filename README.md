@@ -4,9 +4,13 @@
 
 I'm an indie app developer, MEP engineer, prototyping engineer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. 
 
-I'm an indie app developer, working on projects that benefit tinkerers, engineers, and people that I know. Currently, I'm running [comfyStudio](https://comfystudio.tech/) with 2 projects: "[comfySSH]" and "[PipeLine]"
+I'm an indie app developer, working on projects that benefit tinkerers, engineers, and people that I know. Currently, I'm running the "[comfyStudio team](https://comfystudio.tech/)" with 2 projects: "[comfySSH](https://github.com/ThomasVuNguyen/ComfySSH_flutter)" and "[PipeLine](https://github.com/ThomasVuNguyen/PipeLine)". comfySSH is a cross-platform simple & customizable application to remotely control Raspberry Pi & components (also a great general Linux SSH tool) and PipeLine is a Revit/AutoCAD plug-in solution to help MEP Engineers automate their work & save time.
 
-I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+Moreover, I work as a Plumbing Engineer, working with AutoCAD & Revit, helping make buildings come true in Florida. This is where the majority of inspiration for "[PipeLine](https://github.com/ThomasVuNguyen/PipeLine)" is from.
+
+As if two responsibilities aren't enough, I'm also working with "[Core Prototyping](https://www.coreprototyping.xyz/)" as an Electronic & Prototyping Engneer. Spawn from my passion for tinkering with Raspberry Pi & open-source projects and my professional experience working as a Manufacturing Engineer Intern at "[Sonoco](https://www.sonoco.com/)" and "[Tesla](https://www.tesla.com/)", this job turned an in-the-basement hobby into a career.
+
+Lastly, I have a Youtube Channel "[Thomas The Maker](https://www.youtube.com/@thomasthemaker)", where I showcase unexplored Raspberry Pi projects with simple tutorials.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
