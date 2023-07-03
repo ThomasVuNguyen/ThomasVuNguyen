@@ -4,7 +4,7 @@
 
 I'm an indie app developer, MEP engineer, prototyping engineer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. 
 
-I'm an indie app developer, working on projects that benefit tinkerers, engineers, and people that I know. Currently, I'm running "[comfyStudio]" with 2 projects: "[comfySSH]" and "[PipeLine]"
+I'm an indie app developer, working on projects that benefit tinkerers, engineers, and people that I know. Currently, I'm running [comfyStudio](https://comfystudio.tech/) with 2 projects: "[comfySSH]" and "[PipeLine]"
 
 I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
 
