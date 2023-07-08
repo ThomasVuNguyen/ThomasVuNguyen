@@ -13,7 +13,9 @@ As if two responsibilities aren't enough, I'm also working with "[Core Prototypi
 Lastly, I have a Youtube Channel "[Thomas The Maker](https://www.youtube.com/@thomasthemaker)", where I showcase unexplored Raspberry Pi projects with simple tutorials.
 ### Worked/Working at
 <img align="left" alt="sonoco" style="padding-right:10px;" width="30px" src ="https://github.com/ThomasVuNguyen/ThomasVuNguyen/assets/70709101/925bdf2b-729f-4ec9-8410-4cd6cd533da9">
+<img align="left" alt="tesla" style="padding-right:10px;" width="30px" src ="https://github.com/ThomasVuNguyen/ThomasVuNguyen/assets/70709101/925bdf2b-729f-4ec9-8410-4cd6cd533da9](https://github.com/ThomasVuNguyen/ThomasVuNguyen/assets/70709101/16f5e054-057d-4650-b80c-08f97807336b">
 
+<br />
 ### 🧰 Languages and Tools
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 <img align="left" alt="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
