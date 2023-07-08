@@ -1,6 +1,6 @@
 # Thomas Nguyen
 <div id="header" align="center">
-  <img src="https://github.com/ThomasVuNguyen/ThomasVuNguyen/assets/70709101/1e95340e-7224-4355-bde8-f562a382a78" width="100"/>
+  <img src="https://github.com/ThomasVuNguyen/ThomasVuNguyen/.github/workflows/flame-design-science.gif" width="100"/>
 </div>
 
 
