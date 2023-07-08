@@ -1,4 +1,9 @@
 # Thomas Nguyen
+<div id="header" align="center">
+  <img src="https://github.com/ThomasVuNguyen/ThomasVuNguyen/assets/70709101/1e95340e-7224-4355-bde8-f562a382a78" width="100"/>
+</div>
+
+
 
 **`Engineer of many trades`**
 
