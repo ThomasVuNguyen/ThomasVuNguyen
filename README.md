@@ -22,10 +22,6 @@ Moreover, I work as a Plumbing Engineer, working with AutoCAD & Revit, helping m
 As if two responsibilities aren't enough, I'm also working with "[Core Prototyping](https://www.coreprototyping.xyz/)" as an Electronic & Prototyping Engneer. Spawn from my passion for tinkering with Raspberry Pi & open-source projects and my professional experience working as a Manufacturing Engineer Intern at "[Sonoco](https://www.sonoco.com/)" and "[Tesla](https://www.tesla.com/)", this job turned an in-the-basement hobby into a career.
 
 Lastly, I have a Youtube Channel "[Thomas The Maker](https://www.youtube.com/@thomasthemaker)", where I showcase unexplored Raspberry Pi projects with simple tutorials.
-###  🧰 Worked/Working at
-<img align="left" alt="sonoco" style="padding-right:10px;" width="30px" src ="https://github.com/ThomasVuNguyen/ThomasVuNguyen/assets/70709101/925bdf2b-729f-4ec9-8410-4cd6cd533da9"/>
-<img align="left" alt="tesla" style="padding-right:10px;" width="30px" src ="https://github.com/ThomasVuNguyen/ThomasVuNguyen/assets/70709101/16f5e054-057d-4650-b80c-08f97807336b"/>
-<br/>
 ### 🧰 Languages and Tools
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 <img align="left" alt="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
@@ -38,5 +34,6 @@ Lastly, I have a Youtube Channel "[Thomas The Maker](https://www.youtube.com/@th
 <img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="tesla" style="padding-right:10px;" width="30px" src ="https://github.com/ThomasVuNguyen/ThomasVuNguyen/assets/70709101/16f5e054-057d-4650-b80c-08f97807336b"/>
 <br />
 
