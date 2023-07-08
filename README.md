@@ -11,6 +11,8 @@ Moreover, I work as a Plumbing Engineer, working with AutoCAD & Revit, helping m
 As if two responsibilities aren't enough, I'm also working with "[Core Prototyping](https://www.coreprototyping.xyz/)" as an Electronic & Prototyping Engneer. Spawn from my passion for tinkering with Raspberry Pi & open-source projects and my professional experience working as a Manufacturing Engineer Intern at "[Sonoco](https://www.sonoco.com/)" and "[Tesla](https://www.tesla.com/)", this job turned an in-the-basement hobby into a career.
 
 Lastly, I have a Youtube Channel "[Thomas The Maker](https://www.youtube.com/@thomasthemaker)", where I showcase unexplored Raspberry Pi projects with simple tutorials.
+### Worked/Working at
+![sonoco](https://github.com/ThomasVuNguyen/ThomasVuNguyen/assets/70709101/925bdf2b-729f-4ec9-8410-4cd6cd533da9)
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
