@@ -39,8 +39,9 @@ I'm currently running [*World Community Grid - Cancer Marker Mapping*](https://w
 <img align="left" alt="tesla" style="padding-right:10px;" height="40px" src ="https://github.com/ThomasVuNguyen/ThomasVuNguyen/assets/70709101/16f5e054-057d-4650-b80c-08f97807336b"/>
 <img align="left" alt="sonoco" style="padding-right:10px;" height="40px" src ="assets/Sonoco.jpg"/>
 <img align="left" alt="uah" style="padding-right:10px;" height="40px" src ="assets/UAH.png"/>
-<img align="left" alt="uah" style="padding-right:10px;" height="40px" src ="assets/RGD.JPg"/>
-<img align="left" alt="uah" style="padding-right:10px;" height="40px" src ="assets/core.png"/>
+<img align="left" alt="rgd" style="padding-right:10px;" height="40px" src ="assets/RGD.JPg"/>
+<img align="left" alt="core" style="padding-right:10px;" height="40px" src ="assets/core.png"/>
+
 <br></br>
 
 
