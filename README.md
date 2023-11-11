@@ -13,16 +13,51 @@
   </a>
 </div>
 
-**`Engineer of many trades`**
+**`Mechanical by day, Software by night, Maker 24/7`**
 
-I'm an indie app developer, working on projects that benefit tinkerers, engineers, and people that I know. Currently, I'm running the "[comfyStudio team](https://comfystudio.tech/)" with 2 projects: "[comfySSH](https://github.com/ThomasVuNguyen/ComfySSH_flutter)" and "[PipeLine](https://github.com/ThomasVuNguyen/PipeLine)". comfySSH is a cross-platform simple & customizable application to remotely control Raspberry Pi & components (also a great general Linux SSH tool) and PipeLine is a Revit/AutoCAD plug-in solution to help MEP Engineers automate their work & save time.
+At night & weekend, I'm the creator and maintainer of the **Comfy Project**.
 
-Moreover, I work as a Plumbing Engineer, working with AutoCAD & Revit, helping make buildings come true in Florida. This is where the majority of inspiration for "[PipeLine](https://github.com/ThomasVuNguyen/PipeLine)" is from.
+This includes (but not limited to):
 
-As if two responsibilities aren't enough, I'm also working with "[Core Prototyping](https://www.coreprototyping.xyz/)" as an Electronic & Prototyping Engneer. Spawn from my passion for tinkering with Raspberry Pi & open-source projects and my professional experience working as a Manufacturing Engineer Intern at "[Sonoco](https://www.sonoco.com/)" and "[Tesla](https://www.tesla.com/)", this job turned an in-the-basement hobby into a career.
+- [**ComfySpace**](https://comfystudio.tech/): A minimal Raspberry Pi development framework & cross-platform application meant to increase iteration time and project sharability.
+- [**ComfyScript**](https://github.com/ThomasVuNguyen/ComfyScript): A bash scripting tool to reduce boiler-plate code & increase productivity for Rapsberry Pi development by controlling any component in 1 line of code (instead of 100+ lines traditionally). 
+- [**ComfyDoc**](https://comfystudio.tech/): The documentation for the overall Comfy project.
+- [**ComfyShare**](https://github.com/ThomasVuNguyen/ComfyShare): Github for Comfy/Raspberry Pi projects. This will help maintain and automate sharing and using community projects, tailored for robotic, hardware, and all IoT projects.
+- [**ComfyRobo**](https://github.com/ThomasVuNguyen/ComfyRobo): A set of reusable & easy-to-create mechanical components. Think of Legos for Raspberry Pi
 
-Lastly, I have a Youtube Channel "[Thomas The Maker](https://www.youtube.com/@thomasthemaker)", where I showcase unexplored Raspberry Pi projects with simple tutorials.
-### 🧰 Languages and Tools
+Needless to say, I'm passionate about Raspberry Pi. The open-source nature and great stability has created an amazing community. I'm hoping to make that even better.
+
+
+During the day, I'm working as an [**MEP Engineer**](https://rgdengineers.com/) and [**Electronics & Product Designer**](https://www.coreprototyping.xyz/who-we-are).
+
+
+**`2024 Goals`**
+
+- Shake hands with Eben Upton - Raspberry Pi CEO
+- Jeef Geerling - The closet thing to a Life Style Raspberry Pi Youtuber
+- Lady Ada - CEO of Adafruit, inspiration for how I run Comfy
+
+**`FAQ`**
+
+<details>
+<summary>Want to learn some Raspberry Pi projects?</summary>
+
+Check out my [YT channel](https://www.youtube.com/@thomasthemaker)
+
+</details>
+<details>
+<summary>Want to have use, contribute or just curious about my work?</summary>
+
+Shoot me an email at tungvunguyennguyen@gmail.com
+</details>
+
+<details>
+<summary> Want to talk business?</summary>
+The Comfy Project is not legally a business (yet), but email me at tungvunguyennguyen@gmail.com
+</details>
+
+
+### Languages and Tools
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 <img align="left" alt="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -31,9 +66,8 @@ Lastly, I have a Youtube Channel "[Thomas The Maker](https://www.youtube.com/@th
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="tesla" style="padding-right:10px;" width="30px" src ="https://github.com/ThomasVuNguyen/ThomasVuNguyen/assets/70709101/16f5e054-057d-4650-b80c-08f97807336b"/>
-<br />
+<br>
+
 
