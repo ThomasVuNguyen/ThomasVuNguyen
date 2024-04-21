@@ -8,6 +8,9 @@
     <a href="Thomas Nguyen Resume 11-23.pdf">
     <img src="https://img.shields.io/badge/resume-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+      <a href="Nguyen_Portfolio.pdf">
+    <img src="https://img.shields.io/badge/Portfolio-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   <a href="https://www.youtube.com/@thomasthemaker">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
