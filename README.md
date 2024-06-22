@@ -25,7 +25,7 @@ At night & weekend, I'm the creator and maintainer of the **Comfy Project**.
 
 This includes (but not limited to):
 
-- [**ComfySpace**](https://comfystudio.tech/): A minimal Raspberry Pi development framework & cross-platform application meant to increase iteration time and project sharability.
+- [**ComfySpace**](https://comfyspace.tech/): A minimal Raspberry Pi development framework & cross-platform application meant to increase iteration time and project sharability.
 - [**ComfyScript**](https://github.com/ThomasVuNguyen/ComfyScript): A bash scripting tool to reduce boiler-plate code & increase productivity for Rapsberry Pi development by controlling any component in 1 line of code (instead of 100+ lines traditionally). 
 - [**ComfyDoc**](https://comfystudio.tech/): The documentation for the overall Comfy project.
 - [**ComfyShare**](https://github.com/ThomasVuNguyen/ComfyShare): Github for Comfy/Raspberry Pi projects. This will help maintain and automate sharing and using community projects, tailored for robotic, hardware, and all IoT projects.
