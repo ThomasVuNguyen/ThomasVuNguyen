@@ -1,21 +1,11 @@
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/3o85xwc5c8DCoAF440/200.webp?cid=ecf05e4719r1g6xrtbddk83yuwjj0l14djs6rsshgfqco1kg&ep=v1_gifs_search&rid=200.webp&ct=g" width="100"/>
+  <img src="https://media3.giphy.com/media/3o85xwc5c8DCoAF440/200.webp?cid=ecf05e4719r1g6xrtbddk83yuwjj0l14djs6rsshgfqco1kg&ep=v1_gifs_search&rid=200.webp&ct=g" width="160"/>
 </div>
-<div id="badges" align="center">
-    <a href="https://billullonex.com">
-    <img src="https://img.shields.io/badge/billullonex-yellow?style=for-the-badge&logo=wordpress&logoColor=black" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@thomasthemaker">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-    <a href="https://bentobot.tech">
-    <img src="https://img.shields.io/badge/bentobot-green?style=for-the-badge&logo=wordpress&logoColor=black" alt="Youtube Badge"/>
-  </a>
-</div>
+
 
 **`Building robots & AI products people love`**
 
-Currently CTO of  **BillulloNex**.
+CTO of  **BillulloNex**
 
 In 2023, I focused on building product with utility & simplicity - [**ComfySpace**](https://comfyspace.tech)
 
@@ -25,7 +15,7 @@ In 2024, I built [**BentoBot**](https://bentobot.tech) to give people the feels 
 
 You can still [sign up](https://bentobot.tech) to play!
 
-Currently, I am working on AI products at [**BillulloNex**](https://billullonex.com) as CTO.
+Currently, I am working on AI products with substance at [**BillulloNex**](https://billullonex.com) as CTO.
 
 If you're interested in local LLM inference (hardware, layers, benchmark, optimization, building AI apps, etc.), hit me up at [thomas@billullonex.com](mailto:thomas@billullonex.com)
 
