@@ -6,6 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-thomas%40billullonex.com-greenn)](mailto:thomas@billullonex.com)
 [![Educador Summit](https://img.shields.io/badge/Featured%20at-Educador%20Summit-purple)](https://educadorsummit.com/)
+[![Youtube](https://img.shields.io/badge/Thomas%20The%20Maker-Youtube-red)](https://www.youtube.com/@thomasthemaker)
 
 > Building locally-run AI device that your kid can afford
 
